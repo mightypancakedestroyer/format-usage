@@ -1,0 +1,2 @@
+print('We are the {} who say "{}!"'.format('knights', 'Ni'))
+ #Result >>> We are the knights who say "Ni!"
