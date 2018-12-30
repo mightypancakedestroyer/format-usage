@@ -20,5 +20,5 @@ print('We are the {} who say "{}!"'.format('knights', 'Ni'))
 print ('{:.2f},{:.3f},{:.5f}'.format(2.245,3.1224,1.123456))
 >>> 2.25,3.122,1.12346
 
-www.pyformat.com
+www.pyformat.info
 
